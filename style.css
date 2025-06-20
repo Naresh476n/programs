@@ -2,5 +2,5 @@ body {
   background-color:rgb(6, 11, 9);
 }
 p{color: hsl(41, 94%, 47%);}
-h1{color: chocolate;}
+h1,h2,h3{color: chocolate;}
 label{ color: rgba(202, 250, 11, 0.942);}
