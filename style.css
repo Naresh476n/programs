@@ -1,4 +1,6 @@
 body {
-  background-color:lightgreen;
+  background-color:rgb(6, 11, 9);
 }
-.p{color: #651594;}
+p{color: hsl(41, 94%, 47%);}
+h1{color: chocolate;}
+label{ color: rgba(202, 250, 11, 0.942);}
